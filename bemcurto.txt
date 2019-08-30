@@ -1,0 +1,2 @@
+O 	programa 	deve 	solicitar 	um 	nome 	de 	arquivo, 	com 	ate 	8 	caracteres 	seguidos 	por 	um 	ponto 	e 	um 	sufixo.
+(160 caracteres, 	19 TABs eliminados)

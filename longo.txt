@@ -1,0 +1,39 @@
+O programa deve solicitar um nome de arquivo, com ate 8 caracteres seguidos por um ponto e um sufixo.
+Se nao for digitado nenhum sufixo, o programa deve inserir um sufixo '.TXT' apos o nome do arquivo.
+Abrir o arquivo.
+Se ocorrer um erro, exibir mensagem de erro, esperar que o usuario digite uma tecla qualquer e voltar a pedir nome de arquivo.
+
+Depois de aberto com sucesso o arquivo, limpar a tela com atributo de cores padrao do DOS (fundo preto e letras cinzas).
+Em seguida, formatar a ultima e a primeira linhas com fundo e cor de texto diferentes do padrao (a escolher).
+
+Ler o arquivo, eliminar todos os caracteres TAB e espacos duplicados e exibir o texto resultante na tela, a partir da coluna 0 da linha 1, forcando a 'quebra' de linha sempre que a palavra seguinte a ser exibida nao couber no espaco disponivel ate o fim da linha.
+Note que NAO devem ser eliminados do arquivo lido os caracteres CR e LF!
+
+Na versao estendida, os arquivos fornecidos para o programa PODERAO conter texto que ultrapasse, apos ter sido formatado, 23 linhas.
+Neste caso, o programa devera exibir, inicialmente, somente as primeiras 23 linhas do texto formatado.
+Apos exibir o texto, "rolar" o mesmo para cima e para baixo de acordo com os "comandos" fornecidos pelo usuario via teclado.
+Linha 26
+Linha 27
+Linha 28
+Linha 29
+Linha 30
+Linha 31
+Linha 32
+Linha 33
+Linha 34
+Linha 35
+Linha 36
+Linha 37
+Linha 38
+Linha 39
+Linha 40
+Linha 41
+Linha 42
+Linha 43
+Linha 44
+Linha 45
+Linha 46
+Linha 47
+Linha 48
+Linha 49
+Linha 50 	- 	(1.584 caracteres, eliminados 2 TABs)

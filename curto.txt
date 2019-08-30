@@ -1,0 +1,8 @@
+Este arquivo contem um texto curto, que vai caber em menos de 23 linhas da tela.
+Mas ele contem diversos espacos em branco duplicados e caracteres de tabulacao, que deverao ser eliminados na versao exibida na tela.
+Por exemplo, nesta linha do arquivo de entrada existem <           > 11 espacos entre os sinais '<' e '>', mas no texto exibido na tela deve aparecer somente um espaco.
+Ja nesta linha, existem [ 	 	 	] 3 pares de espacos seguidos de caracteres de tabulacao. Os caracteres de tabulacao devem ser eliminados, mas os 3 espacos devem ficar entre os colchetes, pois nao sao espacos consecutivos no arquivo de entrada!!
+O numero total de caracteres eliminados deve ser, portanto, 13.
+Note que os caracteres eliminados devem ser computados no numero total de caracteres lidos do arquivo, bem como a quantidade de espacos e caracteres de tabulacao eliminados.
+Sugestao: tente formatar as estatisticas com ponto separando o milhar da centena e eliminando zeros nao significativos 'a esquerda.
+(1.042 caracteres, 13 eliminados).
